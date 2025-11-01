@@ -12,4 +12,4 @@ A deflationary memecoin built on Ethereum with automatic burns and liquidity gen
 - **Total Supply:** 1,000,000,000 SPSN (1 Billion)
 - **Target Price:** $9.95 per token
 
-CA: soon
+CA: 4Cy2CyWGK2LiTZWcuYMYDokxndFTTjYk5pHd4FM4pump
